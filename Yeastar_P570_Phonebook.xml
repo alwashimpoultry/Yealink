@@ -1,20 +1,136 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<students>
-  <student number="1001">
-    <name>Li Hua</name>
-    <age>20</age>
-    <sex>male</sex>
-  </student>
-
-  <student number="1002">
-    <name>Zhang San</name>
-    <age>21</age>
-    <sex>female</sex>
-  </student>
-
-  <student number="1003">
-    <name>Wang Wu</name>
-    <age>22</age>
-    <sex>male</sex>
-  </student>
-</students>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directory>
+  <contacts>
+    <contact>
+      <display_name>Arshad Ahmad-IT</display_name>
+      <office_number>121</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line>-1</line>
+      <ring>Auto</ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 2.IT</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Mahmoud-IT Manager</display_name>
+      <office_number>120</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 2.IT</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Ahmed-IT</display_name>
+      <office_number>122</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 2.IT</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Kashif Ijas - IT</display_name>
+      <office_number>123</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 2.IT</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Jalal-IT</display_name>
+      <office_number>124</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 2.IT</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Mina-IA</display_name>
+      <office_number>185</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 3.Accounts</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Walled Humran-HR</display_name>
+      <office_number>130</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 5.HR</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Anas Manager-Procurement</display_name>
+      <office_number>180</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 6.Procurement</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Ahmad Yousef-Finance Manager</display_name>
+      <office_number>170</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 4.Sales</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <contact>
+      <display_name>Sara Alzeer-Chief Accountant</display_name>
+      <office_number>140</office_number>
+      <mobile_number></mobile_number>
+      <other_number></other_number>
+      <line></line>
+      <ring></ring>
+      <auto_divert></auto_divert>
+      <priority></priority>
+      <group_id_name>Riyadh Office - 3.Accounts</group_id_name>
+      <default_photo></default_photo>
+      <photo_data></photo_data>
+    </contact>
+    <!-- ... continues for all other rows ... -->
+  </contacts>
+</directory>
