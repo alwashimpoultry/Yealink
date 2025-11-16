@@ -1,85 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneDirectory>
-
-<!-- Management -->
 <DirectoryEntry>
-    <Name>Abdulaziz-Chairman</Name>
-    <Telephone>100</Telephone>
-    <Group>Riyadh Office - 1.Management</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Haitham-Follow-Up-Officer</Name>
-    <Telephone>101</Telephone>
-    <Group>Riyadh Office - 1.Management</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>AbdulazizFahadBijadi</Name>
-    <Telephone>104</Telephone>
-    <Group>Riyadh Office - 1.Management</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Abdul Saalm-Office Manager</Name>
-    <Telephone>110</Telephone>
-    <Group>Riyadh Office - 1.Management</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Haitham Samir- C.E.O</Name>
-    <Telephone>111</Telephone>
-    <Group>Riyadh Office - 1.Management</Group>
-</DirectoryEntry>
-
-<!-- IT -->
-<DirectoryEntry>
-    <Name>Mahmoud-IT Manager</Name>
-    <Telephone>120</Telephone>
-    <Group>Riyadh Office - 2.IT</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Arshad Ahmad-IT</Name>
+    <Name>[Riyadh Office - 2.IT] Arshad Ahmad-IT</Name>
     <Telephone>121</Telephone>
-    <Group>Riyadh Office - 2.IT</Group>
 </DirectoryEntry>
 <DirectoryEntry>
-    <Name>Ahmed-IT</Name>
-    <Telephone>122</Telephone>
-    <Group>Riyadh Office - 2.IT</Group>
+    <Name>[Riyadh Office - 1.Management] Haitham-Follow-Up-Officer</Name>
+    <Telephone>101</Telephone>
 </DirectoryEntry>
 <DirectoryEntry>
-    <Name>Kashif Ijas - IT</Name>
-    <Telephone>123</Telephone>
-    <Group>Riyadh Office - 2.IT</Group>
+    <Name>[Shaqra] Ahmed Almadhi Production Director</Name>
+    <Telephone>200</Telephone>
 </DirectoryEntry>
 <DirectoryEntry>
-    <Name>Jalal-IT</Name>
-    <Telephone>124</Telephone>
-    <Group>Riyadh Office - 2.IT</Group>
+    <Name>[Arar] Arar HR</Name>
+    <Telephone>400</Telephone>
 </DirectoryEntry>
-
-<!-- HR -->
-<DirectoryEntry>
-    <Name>Walled Humran-HR</Name>
-    <Telephone>130</Telephone>
-    <Group>Riyadh Office - 5.HR</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Mohamad Alhumaied</Name>
-    <Telephone>131</Telephone>
-    <Group>Riyadh Office - 5.HR</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Anoud Alotibi-HR</Name>
-    <Telephone>132</Telephone>
-    <Group>Riyadh Office - 5.HR</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Dona Bijadi-HR</Name>
-    <Telephone>133</Telephone>
-    <Group>Riyadh Office - 5.HR</Group>
-</DirectoryEntry>
-<DirectoryEntry>
-    <Name>Abdullah Alsalem-HR</Name>
-    <Telephone>134</Telephone>
-    <Group>Riyadh Office - 5.HR</Group>
-</DirectoryEntry>
-
-</YealinkIPPhoneDirectory>
