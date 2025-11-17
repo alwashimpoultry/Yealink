@@ -19,4 +19,11 @@
 <Name>Department5</Name>
 <URL>Department URI</URL>
 </MenuItem>
+
+<SoftKeyItem>
+     <Name>kash</Name>
+     <URL>http://192.168.0.1:99/Propaganda.xml</URL>
+</SoftKeyItem>
+
+
 </YealinkIPPhoneDirectory>
