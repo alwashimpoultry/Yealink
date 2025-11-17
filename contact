@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <YealinkIPPhoneDirectory>
+
+<DirectoryEntry>
+       <Name>Lily</Name>
+       <Telephone>123456</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+       <Name>Jim</Name>
+       <Telephone>654321</Telephone>
+</DirectoryEntry>
+
 <MenuItem>
 <Name>Department</Name>
 <URL>Department URI</URL>
