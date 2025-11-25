@@ -1,66 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneDirectory>
-  <Title>Marat Contacts</Title>
+<YealinkIPPhoneBook>
+    <Menu Name="Marat">
+        <Unit Name="Anwar - Head Of Industrial Sector" Phone1="300"/>
+        <Unit Name="Manaf Amonia" Phone1="301"/>
+        <Unit Name="Packing Area" Phone1="303"/>
+        <Unit Name="Receiving Area" Phone1="304"/>
+        <Unit Name="Security" Phone1="305"/>
 
-  <DirectoryEntry>
-    <Name>Anwar Head Of The Industrial Sector</Name>
-    <Telephone>300</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Marat Manaf Amonia</Name>
-    <Telephone>301</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Marat Ravi Sankar Amonia</Name>
-    <Telephone>302</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Marat Packing Area</Name>
-    <Telephone>303</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Marat Receiving Area</Name>
-    <Telephone>304</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Marat Security</Name>
-    <Telephone>305</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ahmed Maintanace Manager Marat</Name>
-    <Telephone>306</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Abdullah Albijadi Accounts</Name>
-    <Telephone>307</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ammar Jawad Senior Quality Marat</Name>
-    <Telephone>308</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Rawan Data Entry Marat</Name>
-    <Telephone>309</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Ahmed Safety Marat</Name>
-    <Telephone>310</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Muhannad Accounts Marat</Name>
-    <Telephone>311</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Muhammed Amir Engineer Marat</Name>
-    <Telephone>312</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Muhammed Omar Production Manager</Name>
-    <Telephone>313</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Marat Netar Store keeper</Name>
-    <Telephone>314</Telephone>
-  </DirectoryEntry>
+        <Unit Name="Abdullah Albijadi - Accounts" Phone1="307"/>
+        <Unit Name="Rawan - Data Entry" Phone1="309"/>
+        <Unit Name="Ahmed - Maintenance Manager" Phone1="306"/>
+        <Unit Name="Ahmed - Safety" Phone1="310"/>
+        <Unit Name="Muhammed Omar - Production Manager" Phone1="313"/>
+        <Unit Name="Muhannad - Accounts" Phone1="311"/>
+        <Unit Name="Muhammed Amir - Engineer" Phone1="312"/>
+        <Unit Name="Ammar Jawad - Senior Quality" Phone1="308"/>
 
-</YealinkIPPhoneDirectory>
+        <Unit Name="Ravi Sankar - Amonia" Phone1="302"/>
+        <Unit Name="Netar - Storekeeper" Phone1="314"/>
+    </Menu>
+</YealinkIPPhoneBook>
