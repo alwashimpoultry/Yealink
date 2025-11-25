@@ -1,58 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneDirectory>
-  <Title>Arar Contacts</Title>
-
-  <DirectoryEntry>
-    <Name>Arar HR</Name>
-    <Telephone>400</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Farm 1</Name>
-    <Telephone>401</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Farm 2</Name>
-    <Telephone>402</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Farm 4</Name>
-    <Telephone>404</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Farm 5</Name>
-    <Telephone>405</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Farm 6</Name>
-    <Telephone>406</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Water Plant</Name>
-    <Telephone>407</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Hatchery Maneger Ahmed Khandil</Name>
-    <Telephone>410</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Hatchery Office 2</Name>
-    <Telephone>408</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Doctor Amr</Name>
-    <Telephone>412</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Gate Ali</Name>
-    <Telephone>413</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Accommodation</Name>
-    <Telephone>414</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Arar Maintenance Haider</Name>
-    <Telephone>409</Telephone>
-  </DirectoryEntry>
-
-</YealinkIPPhoneDirectory>
+<YealinkIPPhoneBook>
+    <Menu Name="Arar">
+        <Unit Name="HR Office" Phone1="400"/>
+        <Unit Name="Farm 1" Phone1="401"/>
+        <Unit Name="Farm 2" Phone1="402"/>
+        <Unit Name="Farm 4" Phone1="404"/>
+        <Unit Name="Farm 5" Phone1="405"/>
+        <Unit Name="Farm 6" Phone1="406"/>
+        <Unit Name="Water Plant" Phone1="407"/>
+        <Unit Name="Hatchery Manager - Ahmed Khandil" Phone1="410"/>
+        <Unit Name="Hatchery Office 2" Phone1="408"/>
+        <Unit Name="Doctor Amr" Phone1="412"/>
+        <Unit Name="Gate Ali" Phone1="413"/>
+        <Unit Name="Accommodation" Phone1="414"/>
+        <Unit Name="Maintenance - Haider" Phone1="409"/>
+    </Menu>
+</YealinkIPPhoneBook>
