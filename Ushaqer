@@ -6,7 +6,7 @@
     ====================================================== -->
 
     <!-- ========== MANAGEMENT ========== -->
-    <Menu Name="1.Management">
+    <Menu Name="Ushaqer - 1.Management">
         <Unit Name="Ghassan Alshehada" Phone1="210"/>
         <Unit Name="Ahmed Almadhi - Production Director" Phone1="200"/>
         <Unit Name="Abdul Rahman - Secretary" Phone1="201"/>
@@ -14,55 +14,55 @@
     </Menu>
 
     <!-- ========== PRODUCTION ========== -->
-    <Menu Name="2.Production">
+    <Menu Name="Ushaqer - 2.Production">
         <Unit Name="Ahamad Osama - Broiler Manager" Phone1="202"/>
         <Unit Name="Ammal Almotairi - Quality Controller Hatchery" Phone1="208"/>
     </Menu>
 
     <!-- ========== FINANCE ========== -->
-    <Menu Name="3.Finance">
+    <Menu Name="Ushaqer - 3.Finance">
         <Unit Name="Muhammed Yuzri - Finance" Phone1="203"/>
     </Menu>
 
     <!-- ========== MAINTENANCE ========== -->
-    <Menu Name="4.Maintenance">
+    <Menu Name="Ushaqer - 4.Maintenance">
         <Unit Name="Youzef - Maintenance" Phone1="216"/>
     </Menu>
 
     <!-- ========== LOGISTICS ========== -->
-    <Menu Name="5.Logistics">
+    <Menu Name="Ushaqer - 5.Logistics">
         <Unit Name="Moideen - Logistics" Phone1="204"/>
     </Menu>
 
     <!-- ========== MEDICAL DEPARTMENT (DR) ========== -->
-    <Menu Name="6.Medical">
+    <Menu Name="Ushaqer - 6.Medical">
         <Unit Name="Naeem - DR" Phone1="220"/>
         <Unit Name="Ibrahim - DR" Phone1="221"/>
     </Menu>
 
     <!-- ========== STORES ========== -->
-    <Menu Name="7.Stores">
+    <Menu Name="Ushaqer - 7.Stores">
         <Unit Name="Aymen - Storekeeper" Phone1="206"/>
     </Menu>
 
     <!-- ========== FARM AREA ========== -->
-    <Menu Name="8.Farm Area">
+    <Menu Name="Ushaqer - 8.Farm Area">
         <Unit Name="Abdulla - Farm Area Manager" Phone1="211"/>
     </Menu>
 
     <!-- ========== T-BOY ========== -->
-    <Menu Name="9.T.Boy">
+    <Menu Name="Ushaqer - 9.T.Boy">
         <Unit Name="Yaseen - T-Boy" Phone1="217"/>
         <Unit Name="Firoz - T-Boy" Phone1="218"/>
     </Menu>
 
     <!-- ========== GATE SECURITY ========== -->
-    <Menu Name="10.Gate Security">
+    <Menu Name="Ushaqer - 10.Gate Security">
         <Unit Name="Akash - Gate" Phone1="209"/>
     </Menu>
 
     <!-- ========== FEEDMILL ========== -->
-    <Menu Name="11.Feedmill">
+    <Menu Name="Ushaqer - 11.Feedmill">
         <Unit Name="Feedmill Weighing Area" Phone1="224"/>
         <Unit Name="Feedmill Control Room" Phone1="223"/>
         <Unit Name="Ibrahim Saleh - Feedmill Manager" Phone1="219"/>
