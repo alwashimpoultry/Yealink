@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Menu Name="Ushaqer">
+        <Unit Name="Ghassan Alshehada" Phone1="210"/>
+        <Unit Name="Ahmed Almadhi - Production Director" Phone1="200"/>
+        <Unit Name="Abdul Rahman - Secretary" Phone1="201"/>
+        <Unit Name="Ahmed Abdul Jawad - Warehouse Manager" Phone1="205"/>
+        <Unit Name="Nizar Alnaffakh" Phone1="215"/>
+        <Unit Name="Muhammed Yuzri - Finance" Phone1="203"/>
+        <Unit Name="Youzef - Maintenance" Phone1="216"/>
+        <Unit Name="Moideen - Logistics" Phone1="204"/>
+        <Unit Name="Ahamad Osama - Broiler Manager" Phone1="202"/>
+        <Unit Name="Naeem - DR" Phone1="220"/>
+        <Unit Name="Ibrahim - DR" Phone1="221"/>
+        <Unit Name="Aymen - Storekeeper" Phone1="206"/>
+        <Unit Name="Abdulla - Farm Area Manager" Phone1="211"/>
+        <Unit Name="Yaseen - T-BOY" Phone1="217"/>
+        <Unit Name="Firoz - T-BOY" Phone1="218"/>
+        <Unit Name="Ahmad El Shareef - Hatchery Manager" Phone1="213"/>
+        <Unit Name="FeedMill Weighing Area" Phone1="224"/>
+        <Unit Name="FeedMill Control Room" Phone1="223"/>
+        <Unit Name="Ibrahim Saleh - Feedmill Manager" Phone1="219"/>
+        <Unit Name="Ahmed Ragab - Feedmill Engineer" Phone1="212"/>
+        <Unit Name="Nizamuddin - Feedmill Engineer" Phone1="214"/>
+        <Unit Name="Dilshad - Feedmill Supervisor" Phone1="207"/>
+        <Unit Name="Amal Almotairi - Quality Controller Hatchery" Phone1="208"/>
+        <Unit Name="Akash - Gate Ushaqer" Phone1="209"/>
+    </Menu>
+</YealinkIPPhoneBook>
