@@ -42,6 +42,7 @@
         <Unit Name="Abdulaziz Almutairi - Accounts" Phone1="153" Phone2="" Phone3=""/>
         <Unit Name="Elgasim Ismail - Cash Collection" Phone1="156" Phone2="" Phone3=""/>
         <Unit Name="Mina Magdy - IA" Phone1="185" Phone2="" Phone3=""/>
+        <Unit Name="Checkin" Phone1="10000" Phone2="" Phone3=""/>
     </Menu>
 
     <!-- =======================
