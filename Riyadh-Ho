@@ -49,7 +49,7 @@
          ======================= -->
     <Menu Name="4.Sales">
         <Unit Name="Abdul Aziz Al Rasheed- Sales Consultant" Phone1="170" Phone2="" Phone3=""/>
-        <Unit Name="Tamer - Sales Manager" Phone1="171" Phone2="" Phone3=""/>
+        <Unit Name="Nader - Sales Manager" Phone1="171" Phone2="" Phone3=""/>
         <Unit Name="Khalid Omar - Sales" Phone1="172" Phone2="" Phone3=""/>
         <Unit Name="Reihan Aldosari - Sales Support" Phone1="195" Phone2="" Phone3=""/>
     </Menu>
